@@ -1,0 +1,19 @@
+php -v
+php -v
+node -v
+npm -v
+git --version
+ cd C:\xampp\htdocs
+ composer create-project laravel/laravel "prueba2" "7"
+npm i -g @adonisjs/cli
+php -v
+node -v
+composer -version
+composer create-project laravel/laravel prueba --prefer-dist
+cd C:\xampp\htdocs
+laravel -version
+php aristan --version
+php artisan --version
+cd C:\xampp\htdocs\prueba
+php artisan -version
+cd
